@@ -1,4 +1,8 @@
-# EvolutionAPI Lazarus/Delphi
+<p>
+  <img width="90" height="90" alt="evo4lazarus" src="https://github.com/user-attachments/assets/15f5565a-b825-4cf7-a2c7-915df8638843" />
+  <b><strong>EvolutionAPI Lazarus/Delphi</strong></b>
+</p>
+
 
 **Projeto Open Source para integração com a Evolution API usando Lazarus/Delphi**  
 
@@ -85,3 +89,4 @@ Open Source – Direitos Autorais do Criador Mantidos
 
 Todo e qualquer aprimoramento, correção ou evolução deste projeto deve manter os dados do criador original.
 Uso, redistribuição e adaptação são permitidos, contanto que seja mantido o crédito do autor.
+<center><img width="50" height="50" alt="evo4lazarus-removebg-preview" src="https://github.com/user-attachments/assets/15f5565a-b825-4cf7-a2c7-915df8638843" /></center>
