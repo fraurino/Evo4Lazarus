@@ -63,14 +63,14 @@ begin
   end;
 end;
 
-git clone https://github.com/fraurino/Evo4Lazarus/EvolutionAPI_Lazarus.git
+git clone [https://github.com/fraurino/Evo4Lazarus/EvolutionAPI_Lazarus.git](https://github.com/fraurino/Evo4Lazarus.git)
 ```
 ---
 ## 📂 Instalação
 
 Baixe ou clone este repositório:
 
-git clone https://github.com/fraurino/Evo4Lazarus/EvolutionAPI_Lazarus.git
+git clone [https://github.com/fraurino/Evo4Lazarus/EvolutionAPI_Lazarus.git](https://github.com/fraurino/Evo4Lazarus.git)
 
 
 Abra o projeto .lpi no Lazarus.
