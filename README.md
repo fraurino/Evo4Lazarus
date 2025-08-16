@@ -7,6 +7,7 @@ Este projeto utiliza uma API chamada por **Evolution API** , https://github.com/
 O projeto é **open source**, e todo aprimoramento, correção ou evolução deve manter os créditos do autor.
 
 ---
+<img width="797" height="750" alt="image" src="https://github.com/user-attachments/assets/2cd2b9e0-a687-4279-87f9-4bf9c117c7c8" /> <p>
 
 ## 📌 Funcionalidades
 
