@@ -1,6 +1,6 @@
 <p>
   <img width="90" height="90" alt="evo4lazarus" src="https://github.com/user-attachments/assets/15f5565a-b825-4cf7-a2c7-915df8638843" />
-  <b><strong>EvolutionAPI Lazarus/Delphi</strong></b>
+  <b><strong>EvolutionAPI Lazarus</strong></b>
 </p>
 
 
