@@ -4,7 +4,7 @@
 </p>
 
 
-**Projeto Open Source para integração com a Evolution API usando Lazarus/Delphi**  
+**Projeto Open Source para integração com a Evolution API usando Lazarus**  
 
 Este projeto utiliza uma API chamada por **Evolution API** , https://github.com/EvolutionAPI/evolution-api, permitindo funcionalidades como envio de mensagens via WhatsApp, simulação de digitação, verificação de número comercial, download de imagens e consulta de status de mensagens e entre outras funcionalidades;
 
@@ -12,6 +12,9 @@ O projeto é **open source**, e todo aprimoramento, correção ou evolução dev
 
 ---
 <img width="797" height="750" alt="image" src="https://github.com/user-attachments/assets/2cd2b9e0-a687-4279-87f9-4bf9c117c7c8" /> <p>
+
+## 🔗 Grupo Evo4Lazarus<p>
+https://chat.whatsapp.com/FBzDEpa4d3dBJVjOVxyXDE
 
 ## 📌 Funcionalidades
 
